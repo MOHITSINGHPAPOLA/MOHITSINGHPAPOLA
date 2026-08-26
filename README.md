@@ -1,6 +1,12 @@
 ### `root@reapsec:~#` whoami
 
-<img src="./assets/matrix.svg" align="right" width="190" alt="" />
+![Profile visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=profile%20visits&color=00ff9c&style=flat-square)
+
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/matrix.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/matrix-light.svg" />
+  <img src="./assets/matrix.svg" align="right" width="190" alt="" />
+</picture>
 
 Security researcher — **red team**, **OSINT**, **cryptography** and **steganography**.
 
@@ -8,10 +14,8 @@ Security researcher — **red team**, **OSINT**, **cryptography** and **steganog
 - ✍️ Boxes, challenges and the occasional public exploit that needed fixing before it would even build
 - 🏆 TryHackMe top 1% · CTF player [THM] [HTB]
 - 🌱 Currently going deeper into binary exploitation and reverse engineering
+- 📝 Writeups and blogs — check out **[blog.reapsec.com](https://blog.reapsec.com)**
 - 📫 Reach me at **[reapsec.com](https://reapsec.com)**
-
-[![reapsec.com](https://img.shields.io/badge/reapsec.com-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00ff9c&color=0d1117)](https://reapsec.com)
-[![blog](https://img.shields.io/badge/blog.reapsec.com-0d1117?style=flat-square&logo=hashnode&logoColor=00ff9c&color=0d1117)](https://blog.reapsec.com)
 
 <br clear="right" />
 
