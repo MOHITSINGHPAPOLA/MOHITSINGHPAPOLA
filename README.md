@@ -23,7 +23,7 @@
 
 <img src="./assets/rule.svg" width="100%" alt="" />
 
-<img src="./assets/hacker.png" align="right" width="100" alt="" />
+<img src="./assets/hacker.png" align="right" width="150" alt="" />
 
 ##### 📫 Profiles
 
