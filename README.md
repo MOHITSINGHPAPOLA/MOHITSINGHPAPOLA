@@ -9,7 +9,7 @@
 <picture align="right">
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/terminal.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
-  <img src="./assets/terminal.svg" align="right" width="268" alt="" />
+  <img src="./assets/terminal.svg" align="right" width="240" alt="" />
 </picture>
 
 Break systems, uncover attack paths, and validate exploitable security weaknesses.
@@ -20,6 +20,8 @@ Break systems, uncover attack paths, and validate exploitable security weaknesse
 - 📝 Writeups and blogs — [blog.reapsec.com](https://blog.reapsec.com)
 
 <br clear="right" />
+
+---
 
 #### 📫 Profiles
 
