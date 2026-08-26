@@ -14,22 +14,23 @@
 root@reapsec:~# whoami
 ```
 
-Security researcher working primarily in **red teaming**, **OSINT**, **cryptography** and **steganography**.
-I write up what I break at **[blog.reapsec.com](https://blog.reapsec.com)** — machines, challenges, and the
-occasional exploit that needed fixing before it would even build.
+I break things and write down how it was done — boxes, challenges, and the occasional public
+exploit that needed fixing before it would even build. Everything lands at
+**[blog.reapsec.com](https://blog.reapsec.com)**.
 
 Currently expanding into binary exploitation and reverse engineering.
 
 ---
 
-## Latest Writeup
+## Latest Writeups
 
 <!-- WRITEUPS:START -->
 
 <table width="100%">
-<tr><td width="100%" align="center">
+<tr>
+<td width="50%" valign="top" align="center">
 
-<a href="https://blog.reapsec.com/sendai-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/7c25f3df-8e29-44bb-90f8-26bc089528f2.png" alt="Sendai" /></a>
+<a href="https://blog.reapsec.com/sendai-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/7c25f3df-8e29-44bb-90f8-26bc089528f2.png" alt="Sendai" width="100%" /></a>
 
 ### [Sendai](https://blog.reapsec.com/sendai-htb)
 
@@ -37,10 +38,20 @@ Currently expanding into binary exploitation and reverse engineering.
 
 <a href="https://blog.reapsec.com/sendai-htb"><b>Read the writeup &rarr;</b></a>
 
-</td></tr>
-</table>
+</td>
+<td width="50%" valign="top" align="center">
 
-<sub>Latest post, synced automatically from <a href="https://blog.reapsec.com">blog.reapsec.com</a></sub>
+<a href="https://blog.reapsec.com/airtouch-htb"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1769229373146/d4e4c266-d34d-4f6e-85ed-238edfefa9ff.png" alt="AirTouch" width="100%" /></a>
+
+### [AirTouch](https://blog.reapsec.com/airtouch-htb)
+
+<sub>19 April 2026</sub>
+
+<a href="https://blog.reapsec.com/airtouch-htb"><b>Read the writeup &rarr;</b></a>
+
+</td>
+</tr>
+</table>
 
 <!-- WRITEUPS:END -->
 
