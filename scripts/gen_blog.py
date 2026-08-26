@@ -42,10 +42,21 @@ while len(cells) < COUNT:                      # keep the grid even if the feed 
 card  = "<table width=\"100%\">\n<tr>\n" + "\n".join(cells) + "\n</tr>\n</table>"
 block = f"{START}\n\n{card}\n\n{END}"
 
-readme = open("README.md", encoding="utf-8").read()
-if START not in readme or END not in readme:
-    raise SystemExit(f"markers {START} / {END} not found in README.md")
-open("README.md", "w", encoding="utf-8").write(
-    re.sub(re.escape(START) + r".*?" + re.escape(END), lambda _: block, readme, flags=re.S))
+readme  = open("README.md", encoding="utf-8").read()
+HEADING = "## Latest Writeups"
+
+if START in readme and END in readme:
+    readme = re.sub(re.escape(START) + r".*?" + re.escape(END),
+                    lambda _: block, readme, flags=re.S)
+elif HEADING in readme:
+    # markers were removed by hand - rebuild them under the heading
+    readme = readme.replace(HEADING, f"{HEADING}\n\n{block}", 1)
+    print("markers were missing; restored them under the heading")
+else:
+    # heading gone too - append the whole section rather than fail the run
+    readme = readme.rstrip() + f"\n\n---\n\n{HEADING}\n\n{block}\n"
+    print("section was missing; appended it")
+
+open("README.md", "w", encoding="utf-8").write(readme)
 print("injected: " + ", ".join(
     (i.findtext("title") or "?") for i in items))

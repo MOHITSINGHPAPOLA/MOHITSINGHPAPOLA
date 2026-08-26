@@ -1,3 +1,7 @@
+<!-- Edit anything you like in this file EXCEPT the block between
+     WRITEUPS:START and WRITEUPS:END - that region is regenerated
+     every 6 hours by .github/workflows/assets.yml and any manual
+     change inside it will be overwritten. -->
 ![Profile Visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ### `root@reapsec:~#` whoami
