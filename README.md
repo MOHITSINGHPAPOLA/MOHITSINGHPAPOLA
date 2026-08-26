@@ -12,12 +12,12 @@
   <img src="./assets/terminal.svg" align="right" width="240" alt="" />
 </picture>
 
-Break systems, uncover attack paths, and validate exploitable security weaknesses.
-
-- ⚙️ Experienced in privilege escalation, Active Directory attacks, lateral movement, and post-exploitation
-- 🏆 Top 1% TryHackMe globally · Pro Hacker on HTB · CTF player [THM] [HTB]
-- 🌱 Currently deepening expertise in the evasion side of security
-- 📝 Writeups and blogs — [blog.reapsec.com](https://blog.reapsec.com)
+* 🎯 **Break systems, uncover attack paths, and validate exploitable security weaknesses.**
+* 🧩 **Hands-on experience across privilege escalation, Active Directory, lateral movement, and post-exploitation.**
+* 🏆 **Top 1% TryHackMe globally · Pro Hacker on HackTheBox · Active CTF player.**
+* 🌱 **Currently deepening expertise in security evasion and advanced offensive tradecraft.**
+* 📝 **Writeups and security research — [blog.reapsec.com](https://blog.reapsec.com)**
+* 📫 **Portfolio & contact — [reapsec.com](https://reapsec.com)**
 
 <br clear="right" />
 
