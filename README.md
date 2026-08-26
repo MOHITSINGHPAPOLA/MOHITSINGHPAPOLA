@@ -1,11 +1,11 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=PROFILE+VISITS&color=0d1117&style=flat" alt="profile views" />
+![Profile visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=PROFILE+VISITS&color=0d1117&style=flat)
 
 ### `root@reapsec:~#` whoami
 
 <picture align="right">
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/matrix.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/matrix-light.svg" />
-  <img src="./assets/matrix.svg" align="right" width="170" alt="" />
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/terminal.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
+  <img src="./assets/terminal.svg" align="right" width="268" alt="" />
 </picture>
 
 Security researcher — **red team**, **OSINT**, **cryptography** and **steganography**.

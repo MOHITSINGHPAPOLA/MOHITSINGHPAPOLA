@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="268" height="214" viewBox="0 0 268 214" role="img" aria-label="recon terminal">
+<style>.m{font-family:"DejaVu Sans Mono","Courier New",monospace;font-size:10.5px}.p{fill:#00ff9c}.o{fill:#8b949e}.ok{fill:#00ff9c;font-weight:700}.t{fill:#8b949e;font-size:9.5px}@keyframes rv{0%{opacity:0}4%{opacity:1}92%{opacity:1}100%{opacity:0}}@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}.cur{fill:#00ff9c;animation:bl 1s steps(1) infinite}.l0{opacity:0;animation:rv 9.0s linear infinite;animation-delay:0.00s}.l1{opacity:0;animation:rv 9.0s linear infinite;animation-delay:0.90s}.l2{opacity:0;animation:rv 9.0s linear infinite;animation-delay:1.80s}.l3{opacity:0;animation:rv 9.0s linear infinite;animation-delay:2.70s}.l4{opacity:0;animation:rv 9.0s linear infinite;animation-delay:3.60s}.l5{opacity:0;animation:rv 9.0s linear infinite;animation-delay:4.50s}.l6{opacity:0;animation:rv 9.0s linear infinite;animation-delay:5.40s}.l7{opacity:0;animation:rv 9.0s linear infinite;animation-delay:6.30s}</style>
+<rect x="1" y="1" width="266" height="212" rx="9" fill="#0d1117" stroke="#00ff9c" stroke-opacity=".30" stroke-width="1.5"/>
+<path d="M1 10a9 9 0 0 1 9-9h248a9 9 0 0 1 9 9v22H1z" fill="#161b22"/>
+<circle cx="17" cy="17" r="4.5" fill="#ff5f57"/>
+<circle cx="32" cy="17" r="4.5" fill="#febc2e"/>
+<circle cx="47" cy="17" r="4.5" fill="#28c840"/>
+<text class="m t" x="148" y="20.5" text-anchor="middle">root@reapsec</text>
+<text class="m p l0" x="14" y="56">$ nmap -sV 10.10.11.42</text>
+<text class="m o l1" x="14" y="73">22/tcp   open  ssh</text>
+<text class="m o l2" x="14" y="90">80/tcp   open  http</text>
+<text class="m o l3" x="14" y="107">445/tcp  open  microsoft-ds</text>
+<text class="m p l4" x="14" y="124">$ ./foothold.py --rev 443</text>
+<text class="m ok l5" x="14" y="141">[+] shell obtained</text>
+<text class="m p l6" x="14" y="158">$ whoami</text>
+<text class="m ok l7" x="14" y="175">root</text>
+<rect class="cur" x="14" y="184" width="6" height="11"/>
+</svg>
