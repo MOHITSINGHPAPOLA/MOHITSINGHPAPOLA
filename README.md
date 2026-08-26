@@ -23,6 +23,8 @@
 
 <img src="./assets/rule.svg" width="100%" alt="" />
 
+<img src="./assets/hacker.png" align="right" width="120" alt="" />
+
 ##### 📫 Profiles
 
 [<img src="./assets/icons/htb.svg" width="32" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108) &nbsp;&nbsp;&nbsp;
@@ -30,6 +32,7 @@
 [<img src="./assets/icons/ctftime-icon.svg" width="32" alt="CTFtime" />](https://ctftime.org/team/380077) &nbsp;&nbsp;&nbsp;
 [<img src="./assets/icons/linkedin-icon.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/mohit-papola)
 
+<br clear="right" />
 
 <img src="./assets/rule.svg" width="100%" alt="" />
 
