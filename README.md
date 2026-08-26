@@ -2,112 +2,59 @@
 
 <img src="./assets/banner.svg" alt="root@reapsec" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Binary+Exploitation+%C2%B7+Reverse+Engineering;Web+Application+Security+%C2%B7+Cryptography;Break+it.+Understand+it.+Document+it." alt="focus" />
-
-<br/>
-
-[![Website](https://img.shields.io/badge/reapsec.com-00ff9c?style=flat-square&labelColor=0d1117&logo=firefoxbrowser&logoColor=00ff9c)](https://reapsec.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&color=00ff9c&style=flat-square&label=visitors)](https://github.com/MOHITSINGHPAPOLA)
-[![GitHub followers](https://img.shields.io/github/followers/MOHITSINGHPAPOLA?style=flat-square&color=00ff9c&labelColor=0d1117)](https://github.com/MOHITSINGHPAPOLA?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/MOHITSINGHPAPOLA?style=flat-square&color=00ff9c&labelColor=0d1117)](https://github.com/MOHITSINGHPAPOLA?tab=repositories)
+[![reapsec.com](https://img.shields.io/badge/reapsec.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c)](https://reapsec.com)
+[![Blog](https://img.shields.io/badge/blog.reapsec.com-0d1117?style=for-the-badge&logo=hashnode&logoColor=00ff9c)](https://blog.reapsec.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/mohit-papola)
 
 </div>
 
 ---
 
 ```console
-root@reapsec:~# cat /etc/profile.d/whoami.sh
+root@reapsec:~# whoami
 ```
 
-```yaml
-handle:      MOHITSINGHPAPOLA
-site:        https://reapsec.com
-role:        Security Researcher / CTF Player
-focus:
-  - binary exploitation (pwn)
-  - reverse engineering
-  - web application security
-  - cryptography challenges
-environment: Kali Linux · zsh · tmux · neovim
-philosophy:  "Read the source. Then read it again."
-```
+Security researcher working primarily in **red teaming**, **OSINT**, **cryptography** and **steganography**.
+I write up what I break at **[blog.reapsec.com](https://blog.reapsec.com)** — machines, challenges, and the
+occasional exploit that needed fixing before it would even build.
+
+Currently expanding into binary exploitation and reverse engineering.
 
 ---
 
-## `~/ arsenal`
+## `~/ latest writeups`
 
-<table>
-<tr>
-<td valign="top" width="50%">
+<!-- WRITEUPS:START -->
 
-**Exploitation & Pwn**
+| writeup | published |
+|:--|--:|
+| **[Sendai](https://blog.reapsec.com/sendai-htb)** <br/> <sub>![hackthebox machine](https://img.shields.io/badge/hackthebox%20machine-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![htb](https://img.shields.io/badge/htb-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HTB Writeup](https://img.shields.io/badge/HTB%20Writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `06 Aug 2026` |
+| **[AirTouch](https://blog.reapsec.com/airtouch-htb)** <br/> <sub>![hackthebox machine](https://img.shields.io/badge/hackthebox%20machine-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![wifi pentesting](https://img.shields.io/badge/wifi%20pentesting-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `19 Apr 2026` |
+| **[Outdated](https://blog.reapsec.com/outdated-htb)** <br/> <sub>![Outdated htb writeup](https://img.shields.io/badge/Outdated%20htb%20writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![Write Up](https://img.shields.io/badge/Write%20Up-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `23 Jan 2026` |
+| **[Vintage](https://blog.reapsec.com/vintage-htb)** <br/> <sub>![vintage htb](https://img.shields.io/badge/vintage%20htb-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![Vintage htb writeup](https://img.shields.io/badge/Vintage%20htb%20writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HTB Writeup](https://img.shields.io/badge/HTB%20Writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `08 Jan 2026` |
+| **[Manager](https://blog.reapsec.com/manager-htb)** <br/> <sub>![manager htb](https://img.shields.io/badge/manager%20htb-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![manager](https://img.shields.io/badge/manager-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![walkthrough](https://img.shields.io/badge/walkthrough-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `04 Jan 2026` |
 
-![pwntools](https://img.shields.io/badge/pwntools-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
-![GDB](https://img.shields.io/badge/GDB%20%2B%20pwndbg-0d1117?style=for-the-badge&logo=gnu&logoColor=00ff9c)
-![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge&logo=ghidra&logoColor=00ff9c)
-![radare2](https://img.shields.io/badge/radare2-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
+<sub>Auto-synced from [blog.reapsec.com](https://blog.reapsec.com) · last run 26 Aug 2026 16:16 UTC</sub>
 
-</td>
-<td valign="top" width="50%">
-
-**Web & Network**
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-0d1117?style=for-the-badge&logo=burpsuite&logoColor=00ff9c)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=nmap&logoColor=00ff9c)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00ff9c)
-![ffuf](https://img.shields.io/badge/ffuf%20%2F%20gobuster-0d1117?style=for-the-badge&logo=go&logoColor=00ff9c)
-
-</td>
-</tr>
-<tr>
-<td valign="top">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c)
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff9c)
-![Assembly](https://img.shields.io/badge/x86__64%20ASM-0d1117?style=for-the-badge&logo=assemblyscript&logoColor=00ff9c)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00ff9c)
-
-</td>
-<td valign="top">
-
-**Platform**
-
-![Kali](https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff9c)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=00ff9c)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=00ff9c)
-![Neovim](https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=00ff9c)
-
-</td>
-</tr>
-</table>
+<!-- WRITEUPS:END -->
 
 ---
 
-## `~/ methodology`
+## `~/ selected work`
 
-```mermaid
-flowchart LR
-    A[Recon] --> B[Enumerate]
-    B --> C[Identify<br/>Attack Surface]
-    C --> D[Develop<br/>Exploit]
-    D --> E{Works?}
-    E -- no --> C
-    E -- yes --> F[Verify &<br/>Document]
-    F --> G[Writeup]
-```
+**[CVE-2023-20052](https://github.com/MOHITSINGHPAPOLA/CVE-2023-20052)** — the public ClamAV XXE exploit
+no longer compiled on modern toolchains. Fixed the OpenSSL 3.0 breakage and `HMAC_CTX` incomplete-type
+errors and shipped a Docker build that actually works.
+
+**[PHISHNET-X](https://github.com/MOHITSINGHPAPOLA/PHISHNET-X)** — phishing detection across URLs and
+email: DNS and SSL inspection, structural heuristics, and VirusTotal + WHOIS threat intel behind a GUI.
+
+**[Password_checker](https://github.com/MOHITSINGHPAPOLA/Password_checker)** — password auditing with
+entropy scoring, keyboard-pattern detection, and HaveIBeenPwned breach lookup.
 
 ---
-
-## `~/ stats`
 
 <div align="center">
-
-<img height="300" src="./assets/stats.svg" alt="stats" />
-<img height="300" src="https://streak-stats.demolab.com/?user=MOHITSINGHPAPOLA&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&card_height=300" alt="streak" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/snake.svg" />
@@ -115,46 +62,6 @@ flowchart LR
   <img src="./assets/snake.svg" alt="contribution snake" width="100%" />
 </picture>
 
-</div>
+<sub><code>All security work is conducted in authorized labs, CTF competitions, and sanctioned engagements.</code></sub>
 
----
-
-## `~/ ctf`
-
-> Writeups are published at **[reapsec.com](https://reapsec.com)** after the event ends and the challenge is retired.
-
-<div align="center">
-
-[![CTFtime](https://img.shields.io/badge/CTFtime-Team%20380077-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff9c)](https://ctftime.org/team/380077)
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-Profile-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00ff9c)](https://app.hackthebox.com/users/2069108)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-mohitsinghpapola-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00ff9c)](https://tryhackme.com/p/mohitsinghpapola)
-
-<br/>
-
-<a href="https://app.hackthebox.com/users/2069108"><img src="https://www.hackthebox.com/badge/image/2069108" alt="Hack The Box rank" height="80" /></a>
-<a href="https://tryhackme.com/p/mohitsinghpapola"><img src="https://tryhackme-badges.s3.amazonaws.com/mohitsinghpapola.png" alt="TryHackMe rank" height="80" /></a>
-
-</div>
-
-**Categories I play:** `pwn` · `rev` · `web` · `crypto` · `forensics` · `misc`
-
----
-
-## `~/ contact`
-
-<div align="center">
-
-[![reapsec.com](https://img.shields.io/badge/reapsec.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c)](https://reapsec.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/MOHITSINGHPAPOLA)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/mohit-papola)
-<!-- TODO: add if you use it
-[![X](https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c)](https://x.com/USERNAME)
--->
-
-</div>
-
----
-
-<div align="center">
-<sub><code>All security work shown here is conducted in authorized labs, CTF competitions, and sanctioned engagements.</code></sub>
 </div>

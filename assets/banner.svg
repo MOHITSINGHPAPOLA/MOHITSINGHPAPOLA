@@ -56,12 +56,12 @@
     </g>
     <!-- output -->
     <text class="mono brand grn" x="34" y="132" font-size="40" font-weight="700" filter="url(#glow)" letter-spacing="3">MOHIT SINGH PAPOLA</text>
-    <text class="mono dim" x="36" y="158" font-size="13.5" letter-spacing="2.4">OFFENSIVE SECURITY  ·  CTF PLAYER  ·  REAPSEC.COM</text>
+    <text class="mono dim" x="36" y="158" font-size="13.5" letter-spacing="2.4">RED TEAM  ·  OSINT  ·  CRYPTOGRAPHY  ·  STEGANOGRAPHY</text>
 
     <!-- line 2 -->
     <g mask="url(#typeB)">
       <text class="mono" x="34" y="204" font-size="16">
-        <tspan class="grn">root@reapsec</tspan><tspan class="dim">:</tspan><tspan class="wht">~#</tspan><tspan class="wht" dx="9">./engage --scope authorized</tspan>
+        <tspan class="grn">root@reapsec</tspan><tspan class="dim">:</tspan><tspan class="wht">~#</tspan><tspan class="wht" dx="9">cat writeups/latest.md</tspan>
       </text>
     </g>
     <rect class="cur" x="34" y="222" width="9" height="17"/>
