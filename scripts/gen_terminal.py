@@ -3,6 +3,7 @@
 import html
 
 W, H, CYCLE = 268, 214, 9.0
+PAD = 17          # transparent top padding: nudges the box down half a line
 LH, X0, Y0  = 17, 14, 56
 
 # (text, class)  -- p=prompt line, o=output, ok=success
@@ -29,8 +30,8 @@ for path, bg, chrome, accent, dim, fg, stroke in THEMES:
         css.append(f'.l{i}{{opacity:0;animation:rv {CYCLE}s linear infinite;'
                    f'animation-delay:{i*step:.2f}s}}')
 
-    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" '
-           f'viewBox="0 0 {W} {H}" role="img" aria-label="recon terminal">',
+    out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H+PAD}" '
+           f'viewBox="0 0 {W} {H+PAD}" role="img" aria-label="recon terminal">',
            '<style>' + "".join(css) + '</style>',
            f'<rect x="1" y="1" width="{W-2}" height="{H-2}" rx="9" fill="{bg}" '
            f'stroke="{accent}" stroke-opacity="{stroke}" stroke-width="1.5"/>',
@@ -39,9 +40,11 @@ for path, bg, chrome, accent, dim, fg, stroke in THEMES:
            '<circle cx="32" cy="17" r="4.5" fill="#febc2e"/>',
            '<circle cx="47" cy="17" r="4.5" fill="#28c840"/>',
            f'<text class="m t" x="{W//2+14}" y="20.5" text-anchor="middle">root@reapsec</text>']
+    out.insert(2, f'<g transform="translate(0,{PAD})">')
     for i, (txt, cls) in enumerate(LINES):
         out.append(f'<text class="m {cls} l{i}" x="{X0}" y="{Y0 + i*LH}">{html.escape(txt)}</text>')
     out.append(f'<rect class="cur" x="{X0}" y="{Y0 + len(LINES)*LH - 8}" width="6" height="11"/>')
+    out.append('</g>')
     out.append('</svg>')
     open(path, "w", encoding="utf-8").write("\n".join(out))
     print(f"wrote {path}")
