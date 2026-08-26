@@ -34,7 +34,7 @@ Currently expanding into binary exploitation and reverse engineering.
 | **[Vintage](https://blog.reapsec.com/vintage-htb)** <br/> <sub>![vintage htb](https://img.shields.io/badge/vintage%20htb-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![Vintage htb writeup](https://img.shields.io/badge/Vintage%20htb%20writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HTB Writeup](https://img.shields.io/badge/HTB%20Writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `08 Jan 2026` |
 | **[Manager](https://blog.reapsec.com/manager-htb)** <br/> <sub>![manager htb](https://img.shields.io/badge/manager%20htb-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![manager](https://img.shields.io/badge/manager-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![walkthrough](https://img.shields.io/badge/walkthrough-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)</sub> | `04 Jan 2026` |
 
-<sub>Auto-synced from [blog.reapsec.com](https://blog.reapsec.com) · last run 26 Aug 2026 16:16 UTC</sub>
+<sub>Auto-synced from [blog.reapsec.com](https://blog.reapsec.com) · last run 26 Aug 2026 16:18 UTC</sub>
 
 <!-- WRITEUPS:END -->
 
