@@ -12,14 +12,14 @@
   <img src="./assets/terminal.svg" align="right" width="268" alt="" />
 </picture>
 
-**Offensive security practitioner** — web application security, Active Directory, penetration testing, red teaming, and vulnerability research.
+Offensive security practitioner — web application security, Active Directory, penetration testing, red teaming, and vulnerability research.
 
-- 🔍 Conducted **authorized** security assessments across web applications and APIs, identifying critical vulnerabilities and documenting practical exploitation paths
-- ⚙️ Experienced with vulnerability discovery, privilege escalation, Active Directory attacks, lateral movement, and post-exploitation
-- 🏆 **Top 1% TryHackMe** globally · **Pro Hacker** on HTB · CTF player `[THM]` `[HTB]`
-- 🌱 Currently deepening expertise in the **evasion** side of security
-- 📝 Writeups and blogs — check out **[blog.reapsec.com](https://blog.reapsec.com)**
-- 📫 Reach me at **[reapsec.com](https://reapsec.com)**
+- 🔍 Authorized assessments across web apps and APIs, with practical exploitation paths
+- ⚙️ Vulnerability discovery, privilege escalation, Active Directory, lateral movement, post-exploitation
+- 🏆 Top 1% TryHackMe globally · Pro Hacker on HTB · CTF player [THM] [HTB]
+- 🌱 Currently deepening expertise in the evasion side of security
+- 📝 Writeups and blogs — [blog.reapsec.com](https://blog.reapsec.com)
+- 📫 Reach me at [reapsec.com](https://reapsec.com)
 
 <br clear="right" />
 
