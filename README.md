@@ -1,4 +1,10 @@
-![Profile visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=PROFILE+VISITS&color=0d1117&style=flat)
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=55&lines=Welcome+to+my+profile;Break+it.+Understand+it.+Document+it.;Red+Team+%C2%B7+OSINT+%C2%B7+Crypto+%C2%B7+Stego" alt="welcome" />
+
+</div>
+
+![Profile Visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ### `root@reapsec:~#` whoami
 
