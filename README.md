@@ -77,12 +77,6 @@
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution calendar" width="100%" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
-  <img src="./assets/snake.svg" alt="contribution snake" width="100%" />
-</picture>
-
 <sub><code>All security work is conducted in authorized labs, CTF competitions, and sanctioned engagements.</code></sub>
 
 </div>
