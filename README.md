@@ -1,23 +1,19 @@
-<div align="center">
+### `root@reapsec:~#` whoami
 
-<img src="./assets/banner.svg" alt="root@reapsec" width="100%" />
+<img src="./assets/matrix.svg" align="right" width="190" alt="" />
 
-[![reapsec.com](https://img.shields.io/badge/reapsec.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c)](https://reapsec.com)
-[![Blog](https://img.shields.io/badge/blog.reapsec.com-0d1117?style=for-the-badge&logo=hashnode&logoColor=00ff9c)](https://blog.reapsec.com)
+Security researcher — **red team**, **OSINT**, **cryptography** and **steganography**.
 
-</div>
+- 🎯 I break things and write down exactly how it was done
+- ✍️ Boxes, challenges and the occasional public exploit that needed fixing before it would even build
+- 🏆 TryHackMe top 1% · CTF player [THM] [HTB]
+- 🌱 Currently going deeper into binary exploitation and reverse engineering
+- 📫 Reach me at **[reapsec.com](https://reapsec.com)**
 
----
+[![reapsec.com](https://img.shields.io/badge/reapsec.com-0d1117?style=flat-square&logo=firefoxbrowser&logoColor=00ff9c&color=0d1117)](https://reapsec.com)
+[![blog](https://img.shields.io/badge/blog.reapsec.com-0d1117?style=flat-square&logo=hashnode&logoColor=00ff9c&color=0d1117)](https://blog.reapsec.com)
 
-```console
-root@reapsec:~# whoami
-```
-
-I break things and write down how it was done — boxes, challenges, and the occasional public
-exploit that needed fixing before it would even build. Everything lands at
-**[blog.reapsec.com](https://blog.reapsec.com)**.
-
-Currently expanding into binary exploitation and reverse engineering.
+<br clear="right" />
 
 ---
 
