@@ -1,153 +1,393 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" role="img" aria-label="matrix rain">
 <defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#fff" stop-opacity="0"/><stop offset="22%" stop-color="#fff" stop-opacity="1"/><stop offset="78%" stop-color="#fff" stop-opacity="1"/><stop offset="100%" stop-color="#fff" stop-opacity="0"/></linearGradient><mask id="m"><rect width="200" height="200" fill="url(#fade)"/></mask></defs>
-<style>.g{font-family:"DejaVu Sans Mono",monospace;font-size:14px;fill:#0b8f5f}.h{fill:#053b28;font-weight:700}@keyframes r0{from{transform:translateY(-260px)}to{transform:translateY(200px)}}@keyframes r1{from{transform:translateY(-267px)}to{transform:translateY(200px)}}@keyframes r2{from{transform:translateY(-274px)}to{transform:translateY(200px)}}@keyframes r3{from{transform:translateY(-281px)}to{transform:translateY(200px)}}@keyframes r4{from{transform:translateY(-288px)}to{transform:translateY(200px)}}@keyframes r5{from{transform:translateY(-295px)}to{transform:translateY(200px)}}@keyframes r6{from{transform:translateY(-302px)}to{transform:translateY(200px)}}@keyframes r7{from{transform:translateY(-309px)}to{transform:translateY(200px)}}@keyframes r8{from{transform:translateY(-316px)}to{transform:translateY(200px)}}@keyframes r9{from{transform:translateY(-323px)}to{transform:translateY(200px)}}.c0{animation:r0 6.1s linear infinite;animation-delay:-0.9s}.c1{animation:r1 7.8s linear infinite;animation-delay:-0.4s}.c2{animation:r2 7.2s linear infinite;animation-delay:-2.2s}.c3{animation:r3 4.8s linear infinite;animation-delay:-3.0s}.c4{animation:r4 4.7s linear infinite;animation-delay:-2.6s}.c5{animation:r5 4.8s linear infinite;animation-delay:-0.5s}.c6{animation:r6 6.6s linear infinite;animation-delay:-5.0s}.c7{animation:r7 5.1s linear infinite;animation-delay:-1.3s}.c8{animation:r8 7.6s linear infinite;animation-delay:-5.7s}.c9{animation:r9 7.4s linear infinite;animation-delay:-2.4s}</style>
+<style>.g{font-family:"DejaVu Sans Mono",monospace;font-size:11px;fill:#0b8f5f}.h{fill:#053b28;font-weight:700}@keyframes r0{from{transform:translateY(-330px)}to{transform:translateY(200px)}}@keyframes r1{from{transform:translateY(-339px)}to{transform:translateY(200px)}}@keyframes r2{from{transform:translateY(-348px)}to{transform:translateY(200px)}}@keyframes r3{from{transform:translateY(-357px)}to{transform:translateY(200px)}}@keyframes r4{from{transform:translateY(-366px)}to{transform:translateY(200px)}}@keyframes r5{from{transform:translateY(-375px)}to{transform:translateY(200px)}}@keyframes r6{from{transform:translateY(-384px)}to{transform:translateY(200px)}}@keyframes r7{from{transform:translateY(-393px)}to{transform:translateY(200px)}}@keyframes r8{from{transform:translateY(-402px)}to{transform:translateY(200px)}}@keyframes r9{from{transform:translateY(-411px)}to{transform:translateY(200px)}}@keyframes r10{from{transform:translateY(-420px)}to{transform:translateY(200px)}}@keyframes r11{from{transform:translateY(-429px)}to{transform:translateY(200px)}}@keyframes r12{from{transform:translateY(-438px)}to{transform:translateY(200px)}}@keyframes r13{from{transform:translateY(-447px)}to{transform:translateY(200px)}}@keyframes r14{from{transform:translateY(-456px)}to{transform:translateY(200px)}}@keyframes r15{from{transform:translateY(-465px)}to{transform:translateY(200px)}}.c0{animation:r0 6.1s linear infinite;animation-delay:-0.9s}.c1{animation:r1 7.8s linear infinite;animation-delay:-0.4s}.c2{animation:r2 7.2s linear infinite;animation-delay:-2.2s}.c3{animation:r3 4.8s linear infinite;animation-delay:-3.0s}.c4{animation:r4 4.7s linear infinite;animation-delay:-2.6s}.c5{animation:r5 4.8s linear infinite;animation-delay:-0.5s}.c6{animation:r6 6.6s linear infinite;animation-delay:-5.0s}.c7{animation:r7 5.1s linear infinite;animation-delay:-1.3s}.c8{animation:r8 7.6s linear infinite;animation-delay:-5.7s}.c9{animation:r9 7.4s linear infinite;animation-delay:-2.4s}.c10{animation:r10 9.4s linear infinite;animation-delay:-0.3s}.c11{animation:r11 8.8s linear infinite;animation-delay:-1.7s}.c12{animation:r12 5.2s linear infinite;animation-delay:-0.7s}.c13{animation:r13 6.0s linear infinite;animation-delay:-4.9s}.c14{animation:r14 5.4s linear infinite;animation-delay:-3.5s}.c15{animation:r15 7.7s linear infinite;animation-delay:-2.2s}</style>
 <g mask="url(#m)">
 <g class="c0">
-<text class="g" x="4" y="0" opacity="0.35">ﾊ</text>
-<text class="g" x="4" y="16" opacity="0.42">&gt;</text>
-<text class="g" x="4" y="32" opacity="0.49">ﾅ</text>
-<text class="g" x="4" y="48" opacity="0.57">ﾃ</text>
-<text class="g" x="4" y="64" opacity="0.64">ﾕ</text>
-<text class="g" x="4" y="80" opacity="0.71">ﾓ</text>
-<text class="g" x="4" y="96" opacity="0.78">&lt;</text>
-<text class="g" x="4" y="112" opacity="0.86">ｼ</text>
-<text class="g" x="4" y="128" opacity="0.93">/</text>
-<text class="g h" x="4" y="144" opacity="1.00">ﾏ</text>
+<text class="g" x="4" y="0" opacity="0.35">]</text>
+<text class="g" x="4" y="12" opacity="0.38">ﾋ</text>
+<text class="g" x="4" y="24" opacity="0.41">/</text>
+<text class="g" x="4" y="36" opacity="0.43">ﾐ</text>
+<text class="g" x="4" y="48" opacity="0.46">#</text>
+<text class="g" x="4" y="60" opacity="0.49">ﾂ</text>
+<text class="g" x="4" y="72" opacity="0.52">ﾀ</text>
+<text class="g" x="4" y="84" opacity="0.55">=</text>
+<text class="g" x="4" y="96" opacity="0.58">&lt;</text>
+<text class="g" x="4" y="108" opacity="0.60">ﾗ</text>
+<text class="g" x="4" y="120" opacity="0.63">ｹ</text>
+<text class="g" x="4" y="132" opacity="0.66">ﾈ</text>
+<text class="g" x="4" y="144" opacity="0.69">\</text>
+<text class="g" x="4" y="156" opacity="0.72">ﾈ</text>
+<text class="g" x="4" y="168" opacity="0.75">ｶ</text>
+<text class="g" x="4" y="180" opacity="0.77">ﾏ</text>
+<text class="g" x="4" y="192" opacity="0.80">ﾘ</text>
+<text class="g" x="4" y="204" opacity="0.83">ｻ</text>
+<text class="g" x="4" y="216" opacity="0.86">[</text>
+<text class="g" x="4" y="228" opacity="0.89">ﾘ</text>
+<text class="g" x="4" y="240" opacity="0.92">ｰ</text>
+<text class="g" x="4" y="252" opacity="0.94">/</text>
+<text class="g" x="4" y="264" opacity="0.97">ﾏ</text>
+<text class="g h" x="4" y="276" opacity="1.00">ﾍ</text>
 </g>
 <g class="c1">
-<text class="g" x="24" y="0" opacity="0.35">=</text>
-<text class="g" x="24" y="16" opacity="0.40">ｻ</text>
-<text class="g" x="24" y="32" opacity="0.46">ｳ</text>
-<text class="g" x="24" y="48" opacity="0.51">\</text>
-<text class="g" x="24" y="64" opacity="0.57">/</text>
-<text class="g" x="24" y="80" opacity="0.62">*</text>
-<text class="g" x="24" y="96" opacity="0.68">ﾜ</text>
-<text class="g" x="24" y="112" opacity="0.73">ｶ</text>
-<text class="g" x="24" y="128" opacity="0.78">ｳ</text>
-<text class="g" x="24" y="144" opacity="0.84">&gt;</text>
-<text class="g" x="24" y="160" opacity="0.89">]</text>
-<text class="g" x="24" y="176" opacity="0.95">ﾋ</text>
-<text class="g h" x="24" y="192" opacity="1.00">/</text>
+<text class="g" x="17" y="0" opacity="0.35">ﾒ</text>
+<text class="g" x="17" y="12" opacity="0.38">{</text>
+<text class="g" x="17" y="24" opacity="0.41">ｾ</text>
+<text class="g" x="17" y="36" opacity="0.44">ﾃ</text>
+<text class="g" x="17" y="48" opacity="0.47">$</text>
+<text class="g" x="17" y="60" opacity="0.50">ﾋ</text>
+<text class="g" x="17" y="72" opacity="0.53">ｼ</text>
+<text class="g" x="17" y="84" opacity="0.56">ﾇ</text>
+<text class="g" x="17" y="96" opacity="0.59">ﾕ</text>
+<text class="g" x="17" y="108" opacity="0.62">ﾆ</text>
+<text class="g" x="17" y="120" opacity="0.65">ﾒ</text>
+<text class="g" x="17" y="132" opacity="0.68">ﾓ</text>
+<text class="g" x="17" y="144" opacity="0.70">ﾀ</text>
+<text class="g" x="17" y="156" opacity="0.73">ﾕ</text>
+<text class="g" x="17" y="168" opacity="0.76">ﾊ</text>
+<text class="g" x="17" y="180" opacity="0.79">-</text>
+<text class="g" x="17" y="192" opacity="0.82">ﾋ</text>
+<text class="g" x="17" y="204" opacity="0.85">&gt;</text>
+<text class="g" x="17" y="216" opacity="0.88">/</text>
+<text class="g" x="17" y="228" opacity="0.91">ｹ</text>
+<text class="g" x="17" y="240" opacity="0.94">ﾒ</text>
+<text class="g" x="17" y="252" opacity="0.97">[</text>
+<text class="g h" x="17" y="264" opacity="1.00">ｴ</text>
 </g>
 <g class="c2">
-<text class="g" x="44" y="0" opacity="0.35">#</text>
-<text class="g" x="44" y="16" opacity="0.43">ﾂ</text>
-<text class="g" x="44" y="32" opacity="0.51">ﾀ</text>
-<text class="g" x="44" y="48" opacity="0.59">=</text>
-<text class="g" x="44" y="64" opacity="0.68">&lt;</text>
-<text class="g" x="44" y="80" opacity="0.76">ﾗ</text>
-<text class="g" x="44" y="96" opacity="0.84">ｹ</text>
-<text class="g" x="44" y="112" opacity="0.92">ﾈ</text>
-<text class="g h" x="44" y="128" opacity="1.00">\</text>
+<text class="g" x="30" y="0" opacity="0.35">ﾀ</text>
+<text class="g" x="30" y="12" opacity="0.38">\</text>
+<text class="g" x="30" y="24" opacity="0.40">ﾈ</text>
+<text class="g" x="30" y="36" opacity="0.43">ﾋ</text>
+<text class="g" x="30" y="48" opacity="0.46">ｰ</text>
+<text class="g" x="30" y="60" opacity="0.49">ﾎ</text>
+<text class="g" x="30" y="72" opacity="0.51">ｽ</text>
+<text class="g" x="30" y="84" opacity="0.54">[</text>
+<text class="g" x="30" y="96" opacity="0.57">-</text>
+<text class="g" x="30" y="108" opacity="0.59">ﾋ</text>
+<text class="g" x="30" y="120" opacity="0.62">ﾐ</text>
+<text class="g" x="30" y="132" opacity="0.65">{</text>
+<text class="g" x="30" y="144" opacity="0.68">[</text>
+<text class="g" x="30" y="156" opacity="0.70">ﾏ</text>
+<text class="g" x="30" y="168" opacity="0.73">+</text>
+<text class="g" x="30" y="180" opacity="0.76">/</text>
+<text class="g" x="30" y="192" opacity="0.78">=</text>
+<text class="g" x="30" y="204" opacity="0.81">ｾ</text>
+<text class="g" x="30" y="216" opacity="0.84">ﾃ</text>
+<text class="g" x="30" y="228" opacity="0.86">]</text>
+<text class="g" x="30" y="240" opacity="0.89">ｷ</text>
+<text class="g" x="30" y="252" opacity="0.92">-</text>
+<text class="g" x="30" y="264" opacity="0.95">ｴ</text>
+<text class="g" x="30" y="276" opacity="0.97">1</text>
+<text class="g h" x="30" y="288" opacity="1.00">ﾈ</text>
 </g>
 <g class="c3">
-<text class="g" x="64" y="0" opacity="0.35">ｶ</text>
-<text class="g" x="64" y="16" opacity="0.41">ﾏ</text>
-<text class="g" x="64" y="32" opacity="0.47">ﾘ</text>
-<text class="g" x="64" y="48" opacity="0.53">ｻ</text>
-<text class="g" x="64" y="64" opacity="0.59">[</text>
-<text class="g" x="64" y="80" opacity="0.65">ﾘ</text>
-<text class="g" x="64" y="96" opacity="0.70">ｰ</text>
-<text class="g" x="64" y="112" opacity="0.76">/</text>
-<text class="g" x="64" y="128" opacity="0.82">ﾏ</text>
-<text class="g" x="64" y="144" opacity="0.88">ﾍ</text>
-<text class="g" x="64" y="160" opacity="0.94">ﾀ</text>
-<text class="g h" x="64" y="176" opacity="1.00">ﾒ</text>
+<text class="g" x="43" y="0" opacity="0.35">ﾆ</text>
+<text class="g" x="43" y="12" opacity="0.38">#</text>
+<text class="g" x="43" y="24" opacity="0.41">ｼ</text>
+<text class="g" x="43" y="36" opacity="0.45">ﾀ</text>
+<text class="g" x="43" y="48" opacity="0.48">ﾐ</text>
+<text class="g" x="43" y="60" opacity="0.51">ﾂ</text>
+<text class="g" x="43" y="72" opacity="0.54">ﾃ</text>
+<text class="g" x="43" y="84" opacity="0.58">ﾅ</text>
+<text class="g" x="43" y="96" opacity="0.61">}</text>
+<text class="g" x="43" y="108" opacity="0.64">ﾘ</text>
+<text class="g" x="43" y="120" opacity="0.68">ﾑ</text>
+<text class="g" x="43" y="132" opacity="0.71">ﾑ</text>
+<text class="g" x="43" y="144" opacity="0.74">ﾀ</text>
+<text class="g" x="43" y="156" opacity="0.77">ｰ</text>
+<text class="g" x="43" y="168" opacity="0.80">ﾆ</text>
+<text class="g" x="43" y="180" opacity="0.84">ｾ</text>
+<text class="g" x="43" y="192" opacity="0.87">ﾑ</text>
+<text class="g" x="43" y="204" opacity="0.90">&gt;</text>
+<text class="g" x="43" y="216" opacity="0.94">ﾎ</text>
+<text class="g" x="43" y="228" opacity="0.97">ﾅ</text>
+<text class="g h" x="43" y="240" opacity="1.00">ﾗ</text>
 </g>
 <g class="c4">
-<text class="g" x="84" y="0" opacity="0.35">ｾ</text>
-<text class="g" x="84" y="16" opacity="0.40">ﾃ</text>
-<text class="g" x="84" y="32" opacity="0.45">$</text>
-<text class="g" x="84" y="48" opacity="0.50">ﾋ</text>
-<text class="g" x="84" y="64" opacity="0.55">ｼ</text>
-<text class="g" x="84" y="80" opacity="0.60">ﾇ</text>
-<text class="g" x="84" y="96" opacity="0.65">ﾕ</text>
-<text class="g" x="84" y="112" opacity="0.70">ﾆ</text>
-<text class="g" x="84" y="128" opacity="0.75">ﾒ</text>
-<text class="g" x="84" y="144" opacity="0.80">ﾓ</text>
-<text class="g" x="84" y="160" opacity="0.85">ﾀ</text>
-<text class="g" x="84" y="176" opacity="0.90">ﾕ</text>
-<text class="g" x="84" y="192" opacity="0.95">ﾊ</text>
-<text class="g h" x="84" y="208" opacity="1.00">-</text>
+<text class="g" x="56" y="0" opacity="0.35">ﾎ</text>
+<text class="g" x="56" y="12" opacity="0.38">]</text>
+<text class="g" x="56" y="24" opacity="0.41">ﾕ</text>
+<text class="g" x="56" y="36" opacity="0.43">ｴ</text>
+<text class="g" x="56" y="48" opacity="0.46">=</text>
+<text class="g" x="56" y="60" opacity="0.49">ｷ</text>
+<text class="g" x="56" y="72" opacity="0.52">ｵ</text>
+<text class="g" x="56" y="84" opacity="0.55">ﾓ</text>
+<text class="g" x="56" y="96" opacity="0.58">ｰ</text>
+<text class="g" x="56" y="108" opacity="0.60">ｻ</text>
+<text class="g" x="56" y="120" opacity="0.63">ﾓ</text>
+<text class="g" x="56" y="132" opacity="0.66">ｵ</text>
+<text class="g" x="56" y="144" opacity="0.69">-</text>
+<text class="g" x="56" y="156" opacity="0.72">ｵ</text>
+<text class="g" x="56" y="168" opacity="0.75">0</text>
+<text class="g" x="56" y="180" opacity="0.77">ﾀ</text>
+<text class="g" x="56" y="192" opacity="0.80">\</text>
+<text class="g" x="56" y="204" opacity="0.83">ｻ</text>
+<text class="g" x="56" y="216" opacity="0.86">ｱ</text>
+<text class="g" x="56" y="228" opacity="0.89">ﾃ</text>
+<text class="g" x="56" y="240" opacity="0.92">0</text>
+<text class="g" x="56" y="252" opacity="0.94">ﾓ</text>
+<text class="g" x="56" y="264" opacity="0.97">ﾕ</text>
+<text class="g h" x="56" y="276" opacity="1.00">&lt;</text>
 </g>
 <g class="c5">
-<text class="g" x="104" y="0" opacity="0.35">&gt;</text>
-<text class="g" x="104" y="16" opacity="0.43">/</text>
-<text class="g" x="104" y="32" opacity="0.51">ｹ</text>
-<text class="g" x="104" y="48" opacity="0.59">ﾒ</text>
-<text class="g" x="104" y="64" opacity="0.68">[</text>
-<text class="g" x="104" y="80" opacity="0.76">ｴ</text>
-<text class="g" x="104" y="96" opacity="0.84">$</text>
-<text class="g" x="104" y="112" opacity="0.92">ﾀ</text>
-<text class="g h" x="104" y="128" opacity="1.00">\</text>
+<text class="g" x="69" y="0" opacity="0.35">#</text>
+<text class="g" x="69" y="12" opacity="0.38">/</text>
+<text class="g" x="69" y="24" opacity="0.41">ｹ</text>
+<text class="g" x="69" y="36" opacity="0.45">ﾅ</text>
+<text class="g" x="69" y="48" opacity="0.48">[</text>
+<text class="g" x="69" y="60" opacity="0.51">ﾇ</text>
+<text class="g" x="69" y="72" opacity="0.54">#</text>
+<text class="g" x="69" y="84" opacity="0.58">+</text>
+<text class="g" x="69" y="96" opacity="0.61">=</text>
+<text class="g" x="69" y="108" opacity="0.64">}</text>
+<text class="g" x="69" y="120" opacity="0.68">ﾐ</text>
+<text class="g" x="69" y="132" opacity="0.71">ﾈ</text>
+<text class="g" x="69" y="144" opacity="0.74">=</text>
+<text class="g" x="69" y="156" opacity="0.77">&gt;</text>
+<text class="g" x="69" y="168" opacity="0.80">ﾑ</text>
+<text class="g" x="69" y="180" opacity="0.84">ﾑ</text>
+<text class="g" x="69" y="192" opacity="0.87">ﾑ</text>
+<text class="g" x="69" y="204" opacity="0.90">ﾑ</text>
+<text class="g" x="69" y="216" opacity="0.94">ｳ</text>
+<text class="g" x="69" y="228" opacity="0.97">ｽ</text>
+<text class="g h" x="69" y="240" opacity="1.00">*</text>
 </g>
 <g class="c6">
-<text class="g" x="124" y="0" opacity="0.35">ﾈ</text>
-<text class="g" x="124" y="16" opacity="0.40">ﾋ</text>
-<text class="g" x="124" y="32" opacity="0.44">ｰ</text>
-<text class="g" x="124" y="48" opacity="0.49">ﾎ</text>
-<text class="g" x="124" y="64" opacity="0.54">ｽ</text>
-<text class="g" x="124" y="80" opacity="0.58">[</text>
-<text class="g" x="124" y="96" opacity="0.63">-</text>
-<text class="g" x="124" y="112" opacity="0.68">ﾋ</text>
-<text class="g" x="124" y="128" opacity="0.72">ﾐ</text>
-<text class="g" x="124" y="144" opacity="0.77">{</text>
-<text class="g" x="124" y="160" opacity="0.81">[</text>
-<text class="g" x="124" y="176" opacity="0.86">ﾏ</text>
-<text class="g" x="124" y="192" opacity="0.91">+</text>
-<text class="g" x="124" y="208" opacity="0.95">/</text>
-<text class="g h" x="124" y="224" opacity="1.00">=</text>
+<text class="g" x="82" y="0" opacity="0.35">ﾐ</text>
+<text class="g" x="82" y="12" opacity="0.38">ﾜ</text>
+<text class="g" x="82" y="24" opacity="0.41">ﾋ</text>
+<text class="g" x="82" y="36" opacity="0.44">ﾂ</text>
+<text class="g" x="82" y="48" opacity="0.47">ｾ</text>
+<text class="g" x="82" y="60" opacity="0.50">ﾆ</text>
+<text class="g" x="82" y="72" opacity="0.54">ｼ</text>
+<text class="g" x="82" y="84" opacity="0.57">ﾒ</text>
+<text class="g" x="82" y="96" opacity="0.60">$</text>
+<text class="g" x="82" y="108" opacity="0.63">ﾐ</text>
+<text class="g" x="82" y="120" opacity="0.66">ｳ</text>
+<text class="g" x="82" y="132" opacity="0.69">0</text>
+<text class="g" x="82" y="144" opacity="0.72">/</text>
+<text class="g" x="82" y="156" opacity="0.75">ﾓ</text>
+<text class="g" x="82" y="168" opacity="0.78">&lt;</text>
+<text class="g" x="82" y="180" opacity="0.81">ｳ</text>
+<text class="g" x="82" y="192" opacity="0.85">ｶ</text>
+<text class="g" x="82" y="204" opacity="0.88">#</text>
+<text class="g" x="82" y="216" opacity="0.91">1</text>
+<text class="g" x="82" y="228" opacity="0.94">ﾋ</text>
+<text class="g" x="82" y="240" opacity="0.97">ﾂ</text>
+<text class="g h" x="82" y="252" opacity="1.00">#</text>
 </g>
 <g class="c7">
-<text class="g" x="144" y="0" opacity="0.35">ｾ</text>
-<text class="g" x="144" y="16" opacity="0.40">ﾃ</text>
-<text class="g" x="144" y="32" opacity="0.44">]</text>
-<text class="g" x="144" y="48" opacity="0.49">ｷ</text>
-<text class="g" x="144" y="64" opacity="0.54">-</text>
-<text class="g" x="144" y="80" opacity="0.58">ｴ</text>
-<text class="g" x="144" y="96" opacity="0.63">1</text>
-<text class="g" x="144" y="112" opacity="0.68">ﾈ</text>
-<text class="g" x="144" y="128" opacity="0.72">ｴ</text>
-<text class="g" x="144" y="144" opacity="0.77">ﾆ</text>
-<text class="g" x="144" y="160" opacity="0.81">#</text>
-<text class="g" x="144" y="176" opacity="0.86">ｼ</text>
-<text class="g" x="144" y="192" opacity="0.91">ﾀ</text>
-<text class="g" x="144" y="208" opacity="0.95">ﾐ</text>
-<text class="g h" x="144" y="224" opacity="1.00">ﾂ</text>
+<text class="g" x="95" y="0" opacity="0.35">ﾓ</text>
+<text class="g" x="95" y="12" opacity="0.38">*</text>
+<text class="g" x="95" y="24" opacity="0.41">ｱ</text>
+<text class="g" x="95" y="36" opacity="0.44">ｴ</text>
+<text class="g" x="95" y="48" opacity="0.47">$</text>
+<text class="g" x="95" y="60" opacity="0.50">ｶ</text>
+<text class="g" x="95" y="72" opacity="0.54">ｽ</text>
+<text class="g" x="95" y="84" opacity="0.57">ｼ</text>
+<text class="g" x="95" y="96" opacity="0.60">ｼ</text>
+<text class="g" x="95" y="108" opacity="0.63">ﾀ</text>
+<text class="g" x="95" y="120" opacity="0.66">ﾈ</text>
+<text class="g" x="95" y="132" opacity="0.69">ｽ</text>
+<text class="g" x="95" y="144" opacity="0.72">ｽ</text>
+<text class="g" x="95" y="156" opacity="0.75">ﾏ</text>
+<text class="g" x="95" y="168" opacity="0.78">ｰ</text>
+<text class="g" x="95" y="180" opacity="0.81">ﾓ</text>
+<text class="g" x="95" y="192" opacity="0.85">ｳ</text>
+<text class="g" x="95" y="204" opacity="0.88">}</text>
+<text class="g" x="95" y="216" opacity="0.91">ﾒ</text>
+<text class="g" x="95" y="228" opacity="0.94">}</text>
+<text class="g" x="95" y="240" opacity="0.97">ｱ</text>
+<text class="g h" x="95" y="252" opacity="1.00">ｽ</text>
 </g>
 <g class="c8">
-<text class="g" x="164" y="0" opacity="0.35">ﾃ</text>
-<text class="g" x="164" y="16" opacity="0.40">ﾅ</text>
-<text class="g" x="164" y="32" opacity="0.44">}</text>
-<text class="g" x="164" y="48" opacity="0.49">ﾘ</text>
-<text class="g" x="164" y="64" opacity="0.54">ﾑ</text>
-<text class="g" x="164" y="80" opacity="0.58">ﾑ</text>
-<text class="g" x="164" y="96" opacity="0.63">ﾀ</text>
-<text class="g" x="164" y="112" opacity="0.68">ｰ</text>
-<text class="g" x="164" y="128" opacity="0.72">ﾆ</text>
-<text class="g" x="164" y="144" opacity="0.77">ｾ</text>
-<text class="g" x="164" y="160" opacity="0.81">ﾑ</text>
-<text class="g" x="164" y="176" opacity="0.86">&gt;</text>
-<text class="g" x="164" y="192" opacity="0.91">ﾎ</text>
-<text class="g" x="164" y="208" opacity="0.95">ﾅ</text>
-<text class="g h" x="164" y="224" opacity="1.00">ﾗ</text>
+<text class="g" x="108" y="0" opacity="0.35">ﾍ</text>
+<text class="g" x="108" y="12" opacity="0.39">1</text>
+<text class="g" x="108" y="24" opacity="0.43">ﾂ</text>
+<text class="g" x="108" y="36" opacity="0.46">ﾍ</text>
+<text class="g" x="108" y="48" opacity="0.50">ｶ</text>
+<text class="g" x="108" y="60" opacity="0.54">ﾓ</text>
+<text class="g" x="108" y="72" opacity="0.58">[</text>
+<text class="g" x="108" y="84" opacity="0.62">&lt;</text>
+<text class="g" x="108" y="96" opacity="0.66">1</text>
+<text class="g" x="108" y="108" opacity="0.69">ﾍ</text>
+<text class="g" x="108" y="120" opacity="0.73">ﾏ</text>
+<text class="g" x="108" y="132" opacity="0.77">+</text>
+<text class="g" x="108" y="144" opacity="0.81">ｰ</text>
+<text class="g" x="108" y="156" opacity="0.85">[</text>
+<text class="g" x="108" y="168" opacity="0.89">ｱ</text>
+<text class="g" x="108" y="180" opacity="0.92">ﾍ</text>
+<text class="g" x="108" y="192" opacity="0.96">ｶ</text>
+<text class="g h" x="108" y="204" opacity="1.00">ﾆ</text>
 </g>
 <g class="c9">
-<text class="g" x="184" y="0" opacity="0.35">&gt;</text>
-<text class="g" x="184" y="16" opacity="0.40">ﾎ</text>
-<text class="g" x="184" y="32" opacity="0.44">]</text>
-<text class="g" x="184" y="48" opacity="0.49">ﾕ</text>
-<text class="g" x="184" y="64" opacity="0.54">ｴ</text>
-<text class="g" x="184" y="80" opacity="0.58">=</text>
-<text class="g" x="184" y="96" opacity="0.63">ｷ</text>
-<text class="g" x="184" y="112" opacity="0.68">ｵ</text>
-<text class="g" x="184" y="128" opacity="0.72">ﾓ</text>
-<text class="g" x="184" y="144" opacity="0.77">ｰ</text>
-<text class="g" x="184" y="160" opacity="0.81">ｻ</text>
-<text class="g" x="184" y="176" opacity="0.86">ﾓ</text>
-<text class="g" x="184" y="192" opacity="0.91">ｵ</text>
-<text class="g" x="184" y="208" opacity="0.95">-</text>
-<text class="g h" x="184" y="224" opacity="1.00">ｵ</text>
+<text class="g" x="121" y="0" opacity="0.35">ｵ</text>
+<text class="g" x="121" y="12" opacity="0.38">&lt;</text>
+<text class="g" x="121" y="24" opacity="0.41">&lt;</text>
+<text class="g" x="121" y="36" opacity="0.45">ﾇ</text>
+<text class="g" x="121" y="48" opacity="0.48">ﾒ</text>
+<text class="g" x="121" y="60" opacity="0.51">*</text>
+<text class="g" x="121" y="72" opacity="0.54">ｵ</text>
+<text class="g" x="121" y="84" opacity="0.58">#</text>
+<text class="g" x="121" y="96" opacity="0.61">ﾜ</text>
+<text class="g" x="121" y="108" opacity="0.64">ﾘ</text>
+<text class="g" x="121" y="120" opacity="0.68">ﾑ</text>
+<text class="g" x="121" y="132" opacity="0.71">}</text>
+<text class="g" x="121" y="144" opacity="0.74">ｵ</text>
+<text class="g" x="121" y="156" opacity="0.77">ﾜ</text>
+<text class="g" x="121" y="168" opacity="0.80">ﾍ</text>
+<text class="g" x="121" y="180" opacity="0.84">ﾀ</text>
+<text class="g" x="121" y="192" opacity="0.87">ｴ</text>
+<text class="g" x="121" y="204" opacity="0.90">{</text>
+<text class="g" x="121" y="216" opacity="0.94">1</text>
+<text class="g" x="121" y="228" opacity="0.97">1</text>
+<text class="g h" x="121" y="240" opacity="1.00">ﾎ</text>
+</g>
+<g class="c10">
+<text class="g" x="134" y="0" opacity="0.35">ｱ</text>
+<text class="g" x="134" y="12" opacity="0.38">ﾜ</text>
+<text class="g" x="134" y="24" opacity="0.41">[</text>
+<text class="g" x="134" y="36" opacity="0.44">$</text>
+<text class="g" x="134" y="48" opacity="0.47">ｴ</text>
+<text class="g" x="134" y="60" opacity="0.50">ｾ</text>
+<text class="g" x="134" y="72" opacity="0.53">{</text>
+<text class="g" x="134" y="84" opacity="0.56">ｴ</text>
+<text class="g" x="134" y="96" opacity="0.59">ｶ</text>
+<text class="g" x="134" y="108" opacity="0.62">ｰ</text>
+<text class="g" x="134" y="120" opacity="0.65">ｵ</text>
+<text class="g" x="134" y="132" opacity="0.68">ｳ</text>
+<text class="g" x="134" y="144" opacity="0.70">ｵ</text>
+<text class="g" x="134" y="156" opacity="0.73">ｽ</text>
+<text class="g" x="134" y="168" opacity="0.76">ﾜ</text>
+<text class="g" x="134" y="180" opacity="0.79">ﾒ</text>
+<text class="g" x="134" y="192" opacity="0.82">ﾂ</text>
+<text class="g" x="134" y="204" opacity="0.85">ｽ</text>
+<text class="g" x="134" y="216" opacity="0.88">#</text>
+<text class="g" x="134" y="228" opacity="0.91">#</text>
+<text class="g" x="134" y="240" opacity="0.94">0</text>
+<text class="g" x="134" y="252" opacity="0.97">ｽ</text>
+<text class="g h" x="134" y="264" opacity="1.00">+</text>
+</g>
+<g class="c11">
+<text class="g" x="147" y="0" opacity="0.35">+</text>
+<text class="g" x="147" y="12" opacity="0.38">ｰ</text>
+<text class="g" x="147" y="24" opacity="0.41">-</text>
+<text class="g" x="147" y="36" opacity="0.45">ｼ</text>
+<text class="g" x="147" y="48" opacity="0.48">ｷ</text>
+<text class="g" x="147" y="60" opacity="0.51">]</text>
+<text class="g" x="147" y="72" opacity="0.54">ﾜ</text>
+<text class="g" x="147" y="84" opacity="0.58">ｽ</text>
+<text class="g" x="147" y="96" opacity="0.61">ｻ</text>
+<text class="g" x="147" y="108" opacity="0.64">ﾗ</text>
+<text class="g" x="147" y="120" opacity="0.68">*</text>
+<text class="g" x="147" y="132" opacity="0.71">ﾒ</text>
+<text class="g" x="147" y="144" opacity="0.74">ｰ</text>
+<text class="g" x="147" y="156" opacity="0.77">{</text>
+<text class="g" x="147" y="168" opacity="0.80">ﾑ</text>
+<text class="g" x="147" y="180" opacity="0.84">ﾈ</text>
+<text class="g" x="147" y="192" opacity="0.87">ﾑ</text>
+<text class="g" x="147" y="204" opacity="0.90">}</text>
+<text class="g" x="147" y="216" opacity="0.94">ｰ</text>
+<text class="g" x="147" y="228" opacity="0.97">{</text>
+<text class="g h" x="147" y="240" opacity="1.00">ﾆ</text>
+</g>
+<g class="c12">
+<text class="g" x="160" y="0" opacity="0.35">ﾅ</text>
+<text class="g" x="160" y="12" opacity="0.39">1</text>
+<text class="g" x="160" y="24" opacity="0.43">ﾓ</text>
+<text class="g" x="160" y="36" opacity="0.46">\</text>
+<text class="g" x="160" y="48" opacity="0.50">ﾈ</text>
+<text class="g" x="160" y="60" opacity="0.54">+</text>
+<text class="g" x="160" y="72" opacity="0.58">ﾓ</text>
+<text class="g" x="160" y="84" opacity="0.62">#</text>
+<text class="g" x="160" y="96" opacity="0.66">$</text>
+<text class="g" x="160" y="108" opacity="0.69">ｽ</text>
+<text class="g" x="160" y="120" opacity="0.73">-</text>
+<text class="g" x="160" y="132" opacity="0.77">ｴ</text>
+<text class="g" x="160" y="144" opacity="0.81">ﾓ</text>
+<text class="g" x="160" y="156" opacity="0.85">&gt;</text>
+<text class="g" x="160" y="168" opacity="0.89">&gt;</text>
+<text class="g" x="160" y="180" opacity="0.92">ﾅ</text>
+<text class="g" x="160" y="192" opacity="0.96">1</text>
+<text class="g h" x="160" y="204" opacity="1.00">0</text>
+</g>
+<g class="c13">
+<text class="g" x="173" y="0" opacity="0.35">ｳ</text>
+<text class="g" x="173" y="12" opacity="0.38">ﾍ</text>
+<text class="g" x="173" y="24" opacity="0.40">}</text>
+<text class="g" x="173" y="36" opacity="0.43">ﾅ</text>
+<text class="g" x="173" y="48" opacity="0.45">ﾗ</text>
+<text class="g" x="173" y="60" opacity="0.48">ﾜ</text>
+<text class="g" x="173" y="72" opacity="0.51">ﾂ</text>
+<text class="g" x="173" y="84" opacity="0.53">1</text>
+<text class="g" x="173" y="96" opacity="0.56">ｱ</text>
+<text class="g" x="173" y="108" opacity="0.58">ﾂ</text>
+<text class="g" x="173" y="120" opacity="0.61">ﾃ</text>
+<text class="g" x="173" y="132" opacity="0.64">ﾇ</text>
+<text class="g" x="173" y="144" opacity="0.66">ﾘ</text>
+<text class="g" x="173" y="156" opacity="0.69">\</text>
+<text class="g" x="173" y="168" opacity="0.71">ｹ</text>
+<text class="g" x="173" y="180" opacity="0.74">ｱ</text>
+<text class="g" x="173" y="192" opacity="0.77">&lt;</text>
+<text class="g" x="173" y="204" opacity="0.79">ﾕ</text>
+<text class="g" x="173" y="216" opacity="0.82">ﾅ</text>
+<text class="g" x="173" y="228" opacity="0.84">ﾐ</text>
+<text class="g" x="173" y="240" opacity="0.87">}</text>
+<text class="g" x="173" y="252" opacity="0.90">ｴ</text>
+<text class="g" x="173" y="264" opacity="0.92">ﾈ</text>
+<text class="g" x="173" y="276" opacity="0.95">-</text>
+<text class="g" x="173" y="288" opacity="0.97">\</text>
+<text class="g h" x="173" y="300" opacity="1.00">ﾍ</text>
+</g>
+<g class="c14">
+<text class="g" x="186" y="0" opacity="0.35">ﾇ</text>
+<text class="g" x="186" y="12" opacity="0.38">ﾅ</text>
+<text class="g" x="186" y="24" opacity="0.41">&lt;</text>
+<text class="g" x="186" y="36" opacity="0.44">ﾓ</text>
+<text class="g" x="186" y="48" opacity="0.47">ﾍ</text>
+<text class="g" x="186" y="60" opacity="0.50">ﾇ</text>
+<text class="g" x="186" y="72" opacity="0.54">1</text>
+<text class="g" x="186" y="84" opacity="0.57">ｾ</text>
+<text class="g" x="186" y="96" opacity="0.60">ｻ</text>
+<text class="g" x="186" y="108" opacity="0.63">$</text>
+<text class="g" x="186" y="120" opacity="0.66">0</text>
+<text class="g" x="186" y="132" opacity="0.69">ﾓ</text>
+<text class="g" x="186" y="144" opacity="0.72">ｻ</text>
+<text class="g" x="186" y="156" opacity="0.75">ﾓ</text>
+<text class="g" x="186" y="168" opacity="0.78">ｽ</text>
+<text class="g" x="186" y="180" opacity="0.81">#</text>
+<text class="g" x="186" y="192" opacity="0.85">{</text>
+<text class="g" x="186" y="204" opacity="0.88">ｼ</text>
+<text class="g" x="186" y="216" opacity="0.91">&gt;</text>
+<text class="g" x="186" y="228" opacity="0.94">ﾐ</text>
+<text class="g" x="186" y="240" opacity="0.97">ｹ</text>
+<text class="g h" x="186" y="252" opacity="1.00">=</text>
+</g>
+<g class="c15">
+<text class="g" x="199" y="0" opacity="0.35">ﾍ</text>
+<text class="g" x="199" y="12" opacity="0.38">&gt;</text>
+<text class="g" x="199" y="24" opacity="0.41">ｽ</text>
+<text class="g" x="199" y="36" opacity="0.43">ｳ</text>
+<text class="g" x="199" y="48" opacity="0.46">&gt;</text>
+<text class="g" x="199" y="60" opacity="0.49">ﾐ</text>
+<text class="g" x="199" y="72" opacity="0.52">ﾘ</text>
+<text class="g" x="199" y="84" opacity="0.55">ﾜ</text>
+<text class="g" x="199" y="96" opacity="0.58">ﾎ</text>
+<text class="g" x="199" y="108" opacity="0.60">ﾊ</text>
+<text class="g" x="199" y="120" opacity="0.63">ｳ</text>
+<text class="g" x="199" y="132" opacity="0.66">ﾇ</text>
+<text class="g" x="199" y="144" opacity="0.69">ｾ</text>
+<text class="g" x="199" y="156" opacity="0.72">&gt;</text>
+<text class="g" x="199" y="168" opacity="0.75">1</text>
+<text class="g" x="199" y="180" opacity="0.77">ﾋ</text>
+<text class="g" x="199" y="192" opacity="0.80">ｾ</text>
+<text class="g" x="199" y="204" opacity="0.83">ｹ</text>
+<text class="g" x="199" y="216" opacity="0.86">#</text>
+<text class="g" x="199" y="228" opacity="0.89">ﾇ</text>
+<text class="g" x="199" y="240" opacity="0.92">$</text>
+<text class="g" x="199" y="252" opacity="0.94">ﾇ</text>
+<text class="g" x="199" y="264" opacity="0.97">ﾜ</text>
+<text class="g h" x="199" y="276" opacity="1.00">[</text>
 </g>
 </g>
 </svg>
