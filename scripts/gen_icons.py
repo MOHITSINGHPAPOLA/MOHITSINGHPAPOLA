@@ -28,6 +28,6 @@ def text(label, out, bg, fg, size, dy):
     print(f"{out:14} bg={bg} text")
 
 brand("_htb.svg", "htb", "#9FEF00", "#111811")   # HTB lime, dark glyph for contrast
-brand("_thm.svg", "thm", "#212C42", "#FFFFFF")   # THM navy, white glyph
-text("CTF", "ctftime-icon",  "#E3000B", "#FFFFFF", 14, 5)
+brand("_thm.svg", "thm", "#C11111", "#FFFFFF")   # THM red, white glyph
+text("CTF", "ctftime-icon",  "#E3000B", "#FFFFFF", 14, 5)  # placeholder until real SVG
 text("in",  "linkedin-icon", "#0A66C2", "#FFFFFF", 20, 7)

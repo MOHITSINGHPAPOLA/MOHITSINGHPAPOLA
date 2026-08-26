@@ -21,17 +21,17 @@ Break systems, uncover attack paths, and validate exploitable security weaknesse
 
 <br clear="right" />
 
----
+<img src="./assets/rule.svg" width="100%" alt="" />
 
-#### 📫 Profiles
+##### 📫 Profiles
 
-[<img src="./assets/icons/htb.svg" width="42" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108) &nbsp;
-[<img src="./assets/icons/thm.svg" width="42" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola) &nbsp;
-[<img src="./assets/icons/ctftime-icon.svg" width="42" alt="CTFtime" />](https://ctftime.org/team/380077) &nbsp;
-[<img src="./assets/icons/linkedin-icon.svg" width="42" alt="LinkedIn" />](https://www.linkedin.com/in/mohit-papola)
+[<img src="./assets/icons/htb.svg" width="32" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108)
+[<img src="./assets/icons/thm.svg" width="32" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola)
+[<img src="./assets/icons/ctftime-icon.svg" width="32" alt="CTFtime" />](https://ctftime.org/team/380077)
+[<img src="./assets/icons/linkedin-icon.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/mohit-papola)
 
 
----
+<img src="./assets/rule.svg" width="100%" alt="" />
 
 ## Latest Writeups
 
@@ -67,7 +67,7 @@ Break systems, uncover attack paths, and validate exploitable security weaknesse
 <!-- WRITEUPS:END -->
 
 
----
+<img src="./assets/rule.svg" width="100%" alt="" />
 
 <div align="center">
 
