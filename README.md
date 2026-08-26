@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1200&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40reapsec%3A~%23+whoami;Offensive+Security+%7C+CTF+Player;Binary+Exploitation+%C2%B7+Reverse+Engineering;Web+Application+Security" alt="Typing SVG" />
+<img src="./assets/banner.svg" alt="root@reapsec" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00FF9C&center=true&vCenter=true&width=680&lines=Binary+Exploitation+%C2%B7+Reverse+Engineering;Web+Application+Security+%C2%B7+Cryptography;Break+it.+Understand+it.+Document+it." alt="focus" />
 
 <br/>
 
@@ -102,12 +104,16 @@ flowchart LR
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MOHITSINGHPAPOLA&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff9c&icon_color=00ff9c&text_color=c9d1d9&include_all_commits=true&rank_icon=github" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MOHITSINGHPAPOLA&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&langs_count=8" alt="top languages" />
+<img height="300" src="./assets/stats.svg" alt="stats" />
+<img height="300" src="https://streak-stats.demolab.com/?user=MOHITSINGHPAPOLA&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e&card_height=300" alt="streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MOHITSINGHPAPOLA&hide_border=true&background=0d1117&stroke=00ff9c&ring=00ff9c&fire=00ff9c&currStreakLabel=00ff9c&sideLabels=c9d1d9&dates=8b949e" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
+  <img src="./assets/snake.svg" alt="contribution snake" width="100%" />
+</picture>
 
 </div>
 

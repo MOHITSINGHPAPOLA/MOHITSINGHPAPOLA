@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="300" viewBox="0 0 480 300">
+<style>.m{font-family:"JetBrains Mono","DejaVu Sans Mono",monospace}.k{fill:#7d8590;font-size:12.5px}.v{fill:#00ff9c;font-size:12.5px;font-weight:700}.t{fill:#00ff9c;font-size:13.5px;font-weight:700}.b{animation:f .9s ease-out both}@keyframes f{from{opacity:0;transform:translateX(-8px)}to{opacity:1}}</style>
+<rect width="480" height="300" rx="10" fill="#0d1117" stroke="#00ff9c" stroke-opacity=".3"/>
+<text class="m t" x="20" y="30">root@reapsec:~# git log --stat</text>
+<g class="b" style="animation-delay:0.00s"><text class="m k" x="22" y="60">commits</text><text class="m v" x="458" y="60" text-anchor="end">2</text><rect x="22" y="65" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<g class="b" style="animation-delay:0.09s"><text class="m k" x="22" y="83">pull requests</text><text class="m v" x="458" y="83" text-anchor="end">0</text><rect x="22" y="88" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<g class="b" style="animation-delay:0.18s"><text class="m k" x="22" y="106">issues</text><text class="m v" x="458" y="106" text-anchor="end">1</text><rect x="22" y="111" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<g class="b" style="animation-delay:0.27s"><text class="m k" x="22" y="129">contributions (yr)</text><text class="m v" x="458" y="129" text-anchor="end">183</text><rect x="22" y="134" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<g class="b" style="animation-delay:0.36s"><text class="m k" x="22" y="152">public repos</text><text class="m v" x="458" y="152" text-anchor="end">13</text><rect x="22" y="157" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<g class="b" style="animation-delay:0.45s"><text class="m k" x="22" y="175">stars earned</text><text class="m v" x="458" y="175" text-anchor="end">0</text><rect x="22" y="180" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<g class="b" style="animation-delay:0.54s"><text class="m k" x="22" y="198">followers</text><text class="m v" x="458" y="198" text-anchor="end">2</text><rect x="22" y="203" width="436" height="1" fill="#00ff9c" opacity=".08"/></g>
+<text class="m t" x="20" y="239">languages</text>
+<rect x="22.0" y="251" width="191.2" height="9" fill="#3178c6"><animate attributeName="width" from="0" to="191.2" dur=".8s" fill="freeze"/></rect>
+<rect x="213.2" y="251" width="163.1" height="9" fill="#f1e05a"><animate attributeName="width" from="0" to="163.1" dur=".8s" fill="freeze"/></rect>
+<rect x="376.2" y="251" width="42.6" height="9" fill="#3572A5"><animate attributeName="width" from="0" to="42.6" dur=".8s" fill="freeze"/></rect>
+<rect x="418.8" y="251" width="20.9" height="9" fill="#663399"><animate attributeName="width" from="0" to="20.9" dur=".8s" fill="freeze"/></rect>
+<rect x="439.7" y="251" width="15.9" height="9" fill="#e34c26"><animate attributeName="width" from="0" to="15.9" dur=".8s" fill="freeze"/></rect>
+<rect x="455.6" y="251" width="2.4" height="9" fill="#c6538c"><animate attributeName="width" from="0" to="2.4" dur=".8s" fill="freeze"/></rect>
+<circle cx="26" cy="277" r="4" fill="#3178c6"/><text class="m k" x="36" y="281">TypeScript 44%</text>
+<circle cx="148.0" cy="277" r="4" fill="#f1e05a"/><text class="m k" x="158.0" y="281">JavaScript 37%</text>
+<circle cx="270.0" cy="277" r="4" fill="#3572A5"/><text class="m k" x="280.0" y="281">Python 10%</text>
+<circle cx="363.2" cy="277" r="4" fill="#663399"/><text class="m k" x="373.2" y="281">CSS 5%</text>
+<circle cx="26" cy="295" r="4" fill="#e34c26"/><text class="m k" x="36" y="299">HTML 4%</text>
+<circle cx="104.8" cy="295" r="4" fill="#c6538c"/><text class="m k" x="114.8" y="299">SCSS 1%</text>
+</svg>

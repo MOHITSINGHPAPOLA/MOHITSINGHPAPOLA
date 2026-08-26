@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img" aria-label="reapsec terminal banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%"  stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#0b1620"/>
+      <stop offset="100%" stop-color="#0d1117"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%"   stop-color="#00ff9c" stop-opacity="0"/>
+      <stop offset="50%"  stop-color="#00ff9c" stop-opacity=".55"/>
+      <stop offset="100%" stop-color="#00ff9c" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="2.6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse">
+      <path d="M26 0H0V26" fill="none" stroke="#00ff9c" stroke-opacity=".05" stroke-width="1"/>
+    </pattern>
+    <clipPath id="card"><rect x="8" y="8" width="884" height="244" rx="12"/></clipPath>
+    <mask id="typeA"><rect x="0" y="0" height="260" fill="#fff"><animate attributeName="width" values="0;0;330" keyTimes="0;0.06;0.34" dur="9s" repeatCount="indefinite"/></rect></mask>
+    <mask id="typeB"><rect x="0" y="0" height="260" fill="#fff"><animate attributeName="width" values="0;0;560" keyTimes="0;0.40;0.68" dur="9s" repeatCount="indefinite"/></rect></mask>
+  </defs>
+
+  <style>
+    .mono { font-family: 'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace; }
+    .dim  { fill:#7d8590; }
+    .grn  { fill:#00ff9c; }
+    .wht  { fill:#c9d1d9; }
+    .cur  { fill:#00ff9c; animation: blink 1.05s steps(1) infinite; }
+    @keyframes blink { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+    .scan { animation: scan 7s linear infinite; }
+    @keyframes scan { 0%{transform:translateY(-40px)} 100%{transform:translateY(300px)} }
+    .brand{ animation: pulse 3.6s ease-in-out infinite; }
+    @keyframes pulse { 0%,100%{opacity:.92} 50%{opacity:.55} }
+  </style>
+
+  <rect width="900" height="260" fill="#010409"/>
+  <g clip-path="url(#card)">
+    <rect x="8" y="8" width="884" height="244" rx="12" fill="url(#bg)"/>
+    <rect x="8" y="8" width="884" height="244" fill="url(#grid)"/>
+    <rect class="scan" x="8" y="0" width="884" height="34" fill="url(#sweep)" opacity=".22"/>
+
+    <!-- terminal chrome -->
+    <rect x="8" y="8" width="884" height="34" fill="#161b22"/>
+    <circle cx="32" cy="25" r="5.5" fill="#ff5f57"/>
+    <circle cx="52" cy="25" r="5.5" fill="#febc2e"/>
+    <circle cx="72" cy="25" r="5.5" fill="#28c840"/>
+    <text class="mono dim" x="450" y="30" font-size="12.5" text-anchor="middle">root@reapsec: ~/ops</text>
+
+    <!-- line 1 -->
+    <g mask="url(#typeA)">
+      <text class="mono" x="34" y="82" font-size="16">
+        <tspan class="grn">root@reapsec</tspan><tspan class="dim">:</tspan><tspan class="wht">~#</tspan><tspan class="wht" dx="9">whoami</tspan>
+      </text>
+    </g>
+    <!-- output -->
+    <text class="mono brand grn" x="34" y="132" font-size="40" font-weight="700" filter="url(#glow)" letter-spacing="3">MOHIT SINGH PAPOLA</text>
+    <text class="mono dim" x="36" y="158" font-size="13.5" letter-spacing="2.4">OFFENSIVE SECURITY  ·  CTF PLAYER  ·  REAPSEC.COM</text>
+
+    <!-- line 2 -->
+    <g mask="url(#typeB)">
+      <text class="mono" x="34" y="204" font-size="16">
+        <tspan class="grn">root@reapsec</tspan><tspan class="dim">:</tspan><tspan class="wht">~#</tspan><tspan class="wht" dx="9">./engage --scope authorized</tspan>
+      </text>
+    </g>
+    <rect class="cur" x="34" y="222" width="9" height="17"/>
+
+    <rect x="8" y="8" width="884" height="244" rx="12" fill="none" stroke="#00ff9c" stroke-opacity=".28" stroke-width="1.5"/>
+  </g>
+</svg>

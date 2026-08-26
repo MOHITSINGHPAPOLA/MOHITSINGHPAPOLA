@@ -1,0 +1,44 @@
+name: build profile assets
+
+on:
+  schedule:
+    - cron: "17 3 * * *"      # daily
+  workflow_dispatch:
+  push:
+    branches: [master]
+
+permissions:
+  contents: write
+
+jobs:
+  snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # contribution-graph snake animation -> assets/snake*.svg
+      - uses: Platane/snk@v3
+        id: snake
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            assets/snake.svg?palette=github-dark&color_snake=#00ff9c&color_dots=#161b22,#0e4429,#006d32,#26a641,#00ff9c
+            assets/snake-light.svg?palette=github-light&color_snake=#00b377
+
+      # self-hosted stats card -> assets/stats.svg
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: generate stats card
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+        run: python3 scripts/gen_stats.py
+
+      - name: commit assets
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A assets
+          git diff --staged --quiet || git commit -m "chore: rebuild profile assets [skip ci]"
+          git push
