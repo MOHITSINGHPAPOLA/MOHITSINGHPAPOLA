@@ -12,12 +12,12 @@
   <img src="./assets/terminal.svg" align="right" width="240" alt="" />
 </picture>
 
-* 🎯 **Break systems, uncover attack paths, and validate exploitable security weaknesses.**
-* 🧩 **Hands-on experience across various security concepts.**
-* 🏆 **Top 1% TryHackMe globally · Pro Hacker on HackTheBox · Active CTF player.**
-* 🌱 **Currently deepening expertise in security evasion and advanced offensive tradecraft.**
-* 📝 **Writeups and security research — [blog.reapsec.com](https://blog.reapsec.com)**
-* 📫 **Portfolio & contact — [reapsec.com](https://reapsec.com)**
+* 🎯 Break systems, uncover attack paths, and validate exploitable security weaknesses.
+* 🧩 Hands-on experience across various security concepts.
+* 🏆 Top 1% TryHackMe globally · Pro Hacker on HackTheBox · Active CTF player.
+* 🌱 Currently deepening expertise in security evasion and advanced offensive tradecraft.
+* 📝 Writeups and security research — [blog.reapsec.com](https://blog.reapsec.com)
+* 📫 Portfolio & contact — [reapsec.com](https://reapsec.com)
 
 <br clear="right" />
 
@@ -25,9 +25,9 @@
 
 ##### 📫 Profiles
 
-[<img src="./assets/icons/htb.svg" width="32" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108)
-[<img src="./assets/icons/thm.svg" width="32" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola)
-[<img src="./assets/icons/ctftime-icon.svg" width="32" alt="CTFtime" />](https://ctftime.org/team/380077)
+[<img src="./assets/icons/htb.svg" width="32" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108) &nbsp;&nbsp;&nbsp;
+[<img src="./assets/icons/thm.svg" width="32" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola) &nbsp;&nbsp;&nbsp;
+[<img src="./assets/icons/ctftime-icon.svg" width="32" alt="CTFtime" />](https://ctftime.org/team/380077) &nbsp;&nbsp;&nbsp;
 [<img src="./assets/icons/linkedin-icon.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/mohit-papola)
 
 
