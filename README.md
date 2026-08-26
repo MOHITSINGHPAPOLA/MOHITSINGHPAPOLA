@@ -18,9 +18,16 @@ Break systems, uncover attack paths, and validate exploitable security weaknesse
 - 🏆 Top 1% TryHackMe globally · Pro Hacker on HTB · CTF player [THM] [HTB]
 - 🌱 Currently deepening expertise in the evasion side of security
 - 📝 Writeups and blogs — [blog.reapsec.com](https://blog.reapsec.com)
-- 📫 Reach me at [reapsec.com](https://reapsec.com)
 
 <br clear="right" />
+
+#### 📫 Profiles
+
+[<img src="./assets/icons/htb.svg" width="42" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108) &nbsp;
+[<img src="./assets/icons/thm.svg" width="42" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola) &nbsp;
+[<img src="./assets/icons/ctftime-icon.svg" width="42" alt="CTFtime" />](https://ctftime.org/team/380077) &nbsp;
+[<img src="./assets/icons/linkedin-icon.svg" width="42" alt="LinkedIn" />](https://www.linkedin.com/in/mohit-papola)
+
 
 ---
 
