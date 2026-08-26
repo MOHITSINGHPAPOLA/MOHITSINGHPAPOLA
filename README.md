@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=PROFILE+VISITS&color=00b37a&style=flat" alt="profile views" />
+<img align="right" src="https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=PROFILE+VISITS&color=0d1117&style=flat" alt="profile views" />
 
 ### `root@reapsec:~#` whoami
 
