@@ -21,11 +21,9 @@
 
 <br clear="right" />
 
-<img src="./assets/rule.svg" width="100%" alt="" />
-
 <img src="./assets/hacker.png" align="right" width="138" alt="" />
 
-##### 📫 Profiles
+### 📫 Profiles
 
 [<img src="./assets/icons/htb.svg" width="32" alt="Hack The Box" />](https://app.hackthebox.com/users/2069108) &nbsp;&nbsp;&nbsp;
 [<img src="./assets/icons/thm.svg" width="32" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola) &nbsp;&nbsp;&nbsp;
