@@ -1,6 +1,10 @@
-### `root@reapsec:~#` whoami
+<div align="right">
 
-![Profile visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=profile%20visits&color=00ff9c&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=PROFILE+VIEWS&color=0d1117&style=for-the-badge)
+
+</div>
+
+### `root@reapsec:~#` whoami
 
 <picture align="right">
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/matrix.svg" />
