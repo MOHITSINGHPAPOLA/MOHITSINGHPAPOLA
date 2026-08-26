@@ -4,13 +4,13 @@
      change inside it will be overwritten. -->
 ![Profile Visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=Profile%20Visits&color=blue&style=for-the-badge)
 
+### `root@reapsec:~#` whoami
+
 <picture align="right">
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/terminal.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
   <img src="./assets/terminal.svg" align="right" width="240" alt="" />
 </picture>
-
-### `root@reapsec:~#` whoami
 
 * 🎯 Break systems, uncover attack paths, and validate exploitable security weaknesses.
 * 🧩 Hands-on experience across various security concepts.
