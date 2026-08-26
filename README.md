@@ -12,12 +12,12 @@
   <img src="./assets/terminal.svg" align="right" width="268" alt="" />
 </picture>
 
-Security researcher — **red team**, **OSINT**, **cryptography** and **steganography**.
+**Offensive security practitioner** — web application security, Active Directory, penetration testing, red teaming, and vulnerability research.
 
-- 🎯 I break things and write down exactly how it was done
-- ✍️ Boxes, challenges and the occasional public exploit that needed fixing before it would even build
-- 🏆 TryHackMe top 1% · CTF player [THM] [HTB]
-- 🌱 Currently going deeper into binary exploitation and reverse engineering
+- 🔍 Conducted **authorized** security assessments across web applications and APIs, identifying critical vulnerabilities and documenting practical exploitation paths
+- ⚙️ Experienced with vulnerability discovery, privilege escalation, Active Directory attacks, lateral movement, and post-exploitation
+- 🏆 **Top 1% TryHackMe** globally · **Pro Hacker** on HTB · CTF player `[THM]` `[HTB]`
+- 🌱 Currently deepening expertise in the **evasion** side of security
 - 📝 Writeups and blogs — check out **[blog.reapsec.com](https://blog.reapsec.com)**
 - 📫 Reach me at **[reapsec.com](https://reapsec.com)**
 
