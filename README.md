@@ -23,7 +23,7 @@
 
 <img src="./assets/rule.svg" width="100%" alt="" />
 
-<img src="./assets/hacker.png" align="right" width="120" alt="" />
+<img src="./assets/hacker.png" align="right" width="100" alt="" />
 
 ##### 📫 Profiles
 
@@ -31,7 +31,6 @@
 [<img src="./assets/icons/thm.svg" width="32" alt="TryHackMe" />](https://tryhackme.com/p/mohitsinghpapola) &nbsp;&nbsp;&nbsp;
 [<img src="./assets/icons/ctftime-icon.svg" width="32" alt="CTFtime" />](https://ctftime.org/team/380077) &nbsp;&nbsp;&nbsp;
 [<img src="./assets/icons/linkedin-icon.svg" width="32" alt="LinkedIn" />](https://www.linkedin.com/in/mohit-papola)
-
 <br clear="right" />
 
 <img src="./assets/rule.svg" width="100%" alt="" />
