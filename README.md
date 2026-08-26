@@ -13,7 +13,7 @@
 </picture>
 
 * 🎯 **Break systems, uncover attack paths, and validate exploitable security weaknesses.**
-* 🧩 **Hands-on experience across privilege escalation, Active Directory, lateral movement, and post-exploitation.**
+* 🧩 **Hands-on experience across various security concepts.**
 * 🏆 **Top 1% TryHackMe globally · Pro Hacker on HackTheBox · Active CTF player.**
 * 🌱 **Currently deepening expertise in security evasion and advanced offensive tradecraft.**
 * 📝 **Writeups and security research — [blog.reapsec.com](https://blog.reapsec.com)**
