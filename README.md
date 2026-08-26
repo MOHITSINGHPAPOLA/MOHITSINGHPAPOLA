@@ -1,20 +1,18 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=00FF9C&center=true&vCenter=true&width=620&height=55&lines=Welcome+to+my+profile;Break+it.+Understand+it.+Document+it.;Red+Team+%C2%B7+OSINT+%C2%B7+Crypto+%C2%B7+Stego" alt="welcome" />
-
-</div>
-
 ![Profile Visits](https://komarev.com/ghpvc/?username=MOHITSINGHPAPOLA&label=Profile%20Visits&color=blue&style=for-the-badge)
 
 ### `root@reapsec:~#` whoami
+
+<picture align="right">
+  <source media="(prefers-color-scheme: dark)"  srcset="./assets/welcome.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/welcome-light.svg" />
+  <img src="./assets/welcome.svg" align="right" width="268" alt="welcome" />
+</picture>
 
 <picture align="right">
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/terminal.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
   <img src="./assets/terminal.svg" align="right" width="268" alt="" />
 </picture>
-
-Security researcher — **red team**, **OSINT**, **cryptography** and **steganography**.
 
 - 🎯 I break things and write down exactly how it was done
 - ✍️ Boxes, challenges and the occasional public exploit that needed fixing before it would even build
