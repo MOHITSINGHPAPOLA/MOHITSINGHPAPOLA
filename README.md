@@ -4,7 +4,6 @@
 
 [![reapsec.com](https://img.shields.io/badge/reapsec.com-0d1117?style=for-the-badge&logo=firefoxbrowser&logoColor=00ff9c)](https://reapsec.com)
 [![Blog](https://img.shields.io/badge/blog.reapsec.com-0d1117?style=for-the-badge&logo=hashnode&logoColor=00ff9c)](https://blog.reapsec.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/mohit-papola)
 
 </div>
 
