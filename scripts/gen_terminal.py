@@ -45,23 +45,3 @@ for path, bg, chrome, accent, dim, fg, stroke in THEMES:
     out.append('</svg>')
     open(path, "w", encoding="utf-8").write("\n".join(out))
     print(f"wrote {path}")
-
-    # matching blinking WELCOME sticker
-    wpath = path.replace("terminal", "welcome")
-    ws = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="34" '
-          f'viewBox="0 0 {W} 34" role="img" aria-label="welcome">',
-          '<style>'
-          '.wm{font-family:"DejaVu Sans Mono","Courier New",monospace;font-size:13px;'
-          'font-weight:700;letter-spacing:4px}'
-          '@keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}'
-          '@keyframes gl{0%,100%{opacity:.9}50%{opacity:.45}}'
-          f'.cur{{fill:{accent};animation:bl 1s steps(1) infinite}}'
-          f'.box{{animation:gl 3s ease-in-out infinite}}'
-          '</style>',
-          f'<rect class="box" x="1" y="1" width="{W-2}" height="32" rx="7" fill="{chrome}" '
-          f'stroke="{accent}" stroke-opacity="{stroke}" stroke-width="1.5"/>',
-          f'<text class="wm" x="{W//2 - 8}" y="22" text-anchor="middle" fill="{accent}">WELCOME</text>',
-          f'<rect class="cur" x="{W//2 + 52}" y="12" width="7" height="12"/>',
-          '</svg>']
-    open(wpath, "w", encoding="utf-8").write("\n".join(ws))
-    print(f"wrote {wpath}")

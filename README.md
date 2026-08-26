@@ -3,16 +3,12 @@
 ### `root@reapsec:~#` whoami
 
 <picture align="right">
-  <source media="(prefers-color-scheme: dark)"  srcset="./assets/welcome.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/welcome-light.svg" />
-  <img src="./assets/welcome.svg" align="right" width="268" alt="welcome" />
-</picture>
-
-<picture align="right">
   <source media="(prefers-color-scheme: dark)"  srcset="./assets/terminal.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
   <img src="./assets/terminal.svg" align="right" width="268" alt="" />
 </picture>
+
+Security researcher — **red team**, **OSINT**, **cryptography** and **steganography**.
 
 - 🎯 I break things and write down exactly how it was done
 - ✍️ Boxes, challenges and the occasional public exploit that needed fixing before it would even build
