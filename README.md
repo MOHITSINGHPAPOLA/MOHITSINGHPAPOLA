@@ -22,20 +22,18 @@ Currently expanding into binary exploitation and reverse engineering.
 
 ---
 
-## `~/ latest writeup`
+## Latest Writeup
 
 <!-- WRITEUPS:START -->
 
 <table width="100%">
-<tr><td align="center">
+<tr><td width="100%" align="center">
 
-<a href="https://blog.reapsec.com/sendai-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/7c25f3df-8e29-44bb-90f8-26bc089528f2.png" alt="Sendai" width="100%" /></a>
+<a href="https://blog.reapsec.com/sendai-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/7c25f3df-8e29-44bb-90f8-26bc089528f2.png" alt="Sendai" /></a>
 
 ### [Sendai](https://blog.reapsec.com/sendai-htb)
 
-<sub>`06 August 2026`</sub>
-
-![hackthebox machine](https://img.shields.io/badge/hackthebox%20machine-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![htb](https://img.shields.io/badge/htb-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HTB Writeup](https://img.shields.io/badge/HTB%20Writeup-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c) ![HTB Machines](https://img.shields.io/badge/HTB%20Machines-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)
+<sub>06 August 2026</sub>
 
 <a href="https://blog.reapsec.com/sendai-htb"><b>Read the writeup &rarr;</b></a>
 

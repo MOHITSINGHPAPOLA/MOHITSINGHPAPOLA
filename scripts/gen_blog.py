@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Inject the latest blog.reapsec.com post into README.md as a bordered card."""
-import html, re, urllib.parse, urllib.request
+import html, re, urllib.request
 from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 
@@ -28,25 +28,15 @@ try:
 except ValueError:
     date = ""
 
-SKIP = {"reapsec"}
-tags = [c.text.strip().lstrip("#") for c in item.findall("category")
-        if c.text and c.text.strip().lower() not in SKIP][:4]
-badges = " ".join(
-    "![{}](https://img.shields.io/badge/{}-0d1117?style=flat-square&labelColor=0d1117&color=00ff9c)".format(
-        html.escape(t), urllib.parse.quote(t.replace("-", "--").replace("_", "__")))
-    for t in tags)
-
-cover_row = (f'<a href="{link}"><img src="{cover}" alt="{title}" width="100%" /></a>\n\n'
+cover_row = (f'<a href="{link}"><img src="{cover}" alt="{title}" /></a>\n\n'
              if cover else "")
 
 card = f"""<table width="100%">
-<tr><td align="center">
+<tr><td width="100%" align="center">
 
 {cover_row}### [{title}]({link})
 
-<sub>`{date}`</sub>
-
-{badges}
+<sub>{date}</sub>
 
 <a href="{link}"><b>Read the writeup &rarr;</b></a>
 
