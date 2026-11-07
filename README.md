@@ -41,7 +41,7 @@
 <tr>
 <td width="50%" valign="top" align="center">
 
-<a href="https://blog.reapsec.com/sendai-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/7c25f3df-8e29-44bb-90f8-26bc089528f2.png" alt="Sendai" width="100%" /></a>
+<a href="https://blog.reapsec.com/sendai-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/1a5a55e3-2036-44ef-9106-fd9a311a9653.png" alt="Sendai" width="100%" /></a>
 
 ### [Sendai](https://blog.reapsec.com/sendai-htb)
 
@@ -52,7 +52,7 @@
 </td>
 <td width="50%" valign="top" align="center">
 
-<a href="https://blog.reapsec.com/airtouch-htb"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1769229373146/d4e4c266-d34d-4f6e-85ed-238edfefa9ff.png" alt="AirTouch" width="100%" /></a>
+<a href="https://blog.reapsec.com/airtouch-htb"><img src="https://cdn.hashnode.com/uploads/covers/6873376c37ec115b36ed53d8/b799d39c-7c33-4f1b-91bf-67db2636faac.png" alt="AirTouch" width="100%" /></a>
 
 ### [AirTouch](https://blog.reapsec.com/airtouch-htb)
 
